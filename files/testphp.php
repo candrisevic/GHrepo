@@ -5,5 +5,5 @@ $movies[1]="Evil Dead";
 $movies[2]="Office Space";
 $movies[3]="Spaceballs";
 echo $movies[0] . " and " . $movies[1] . " are Horror Films.";
-
+echo $movies[2] . " and " . $movies[3] . " are Comedy Films.";
 ?> 
