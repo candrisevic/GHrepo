@@ -7,7 +7,7 @@ $movies[1]="Evil Dead";
 $movies[2]="Office Space";
 $movies[3]="Spaceballs";
 $movies[4]="Bladerunner";
-$movies[5]="Gattaca";
+$movies[5]="Guardians of the Galaxy";
 
 echo $movies[0] . " and " . $movies[1] . " are Horror Films.";
 
